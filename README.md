@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alioune 👋
 
-<!--
-**alioune-camara/alioune-camara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student in Dakar, Senegal.
+I'm learning web development and cybersecurity.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Web: HTML, CSS, JavaScript
+- Cybersecurity: TryHackMe (Linux, networking, web basics)
+- Next: Python for security scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon: password strength checker, secure login system.
+
+## Goal
+Pursue a master's degree in cybersecurity.
+
+📫 calioune2908@gmail.com
